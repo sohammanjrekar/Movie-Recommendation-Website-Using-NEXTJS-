@@ -26,8 +26,8 @@ const MovieCard = (item) => {
         <p className="text-lg px-14 text-gray-300 mt-10">
          {synopsis}
         </p>
-
         <div className="rounded-full border-2 mt-8 text-white px-3 py-2 font-black">{type}</div>
+
 
        
         <p className="text-base font-bold px-14 text-gray-300 mt-3">
